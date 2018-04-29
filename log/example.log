@@ -1,0 +1,437 @@
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:170) - Doctor Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:170) - Patient Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:39) - System Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:40) - In System Admin Work Area ! UserName : Admin
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:39) - System Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:40) - In System Admin Work Area ! UserName : Admin
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Doctor Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Reception Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Patient Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - LabOrganization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Security Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:378) - Employee Created ! First Name : Barkha Last Name : Agrawal in Doctor Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:390) - Employee Created ! First Name : Suman Last Name : Nath in Organization : Reception Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:390) - Employee Created ! First Name : Akash Last Name : Agrawal in Organization : LabOrganization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:390) - Employee Created ! First Name : Gurmeet Last Name : Dawar in Organization : Security Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:285) - Doctor Created with UserName : barkha and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Employee Created with UserName : suman and Role : Reception
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Employee Created with UserName : akash and Role : Lab
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Employee Created with UserName : gurmeet and Role : Tier1Analyst
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:166) - Deleted User Account having User Name : suman
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:166) - Deleted User Account having User Name : akash
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:166) - Deleted User Account having User Name : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:284) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:285) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:39) - System Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:40) - In System Admin Work Area ! UserName : Admin
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Doctor Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Patient Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Reception Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - LabOrganization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Security Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:384) - Employee Created ! First Name : Barkha Last Name : Agrawal in Doctor Organization
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:397) - Employee Created ! First Name : Akash Last Name : Agrawal in Organization : Reception Organization
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:39) - System Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SystemAdminRole.java:40) - In System Admin Work Area ! UserName : Admin
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Doctor Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Patient Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Reception Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - LabOrganization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageOrganizationJPanel.java:174) - Security Organization : Organization Created
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:383) - Employee Created ! First Name : Barkha Last Name : Agrawal in Doctor Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Suman Last Name : Nath in Organization : Reception Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Akash Last Name : Agrawal in Organization : LabOrganization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Gurmeet Last Name : Gurmeet in Organization : Security Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:285) - Doctor Created with UserName : barkha and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Employee Created with UserName : suman and Role : Reception
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : suman
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:285) - Doctor Created with UserName : barkha and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:285) - Doctor Created with UserName : barkha and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:285) - Doctor Created with UserName : barkha and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : suman and Role : Reception
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : akash and Role : Lab
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : gurmeet and Role : Tier1Analyst
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : gurmeet and Role : Tier2Analyst
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Anmol Last Name : Dawar in Organization : Security Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : anmol and Role : Tier1Analyst
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Pari Last Name : Ghume in Organization : Security Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:301) - Employee Created with UserName : pari and Role : SOCAnalysisTeam
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Nikita
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Priyanka
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Mugdha
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Indrajeet
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Jay
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Chinmay
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:125) - Receptionist Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Radhika
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Neha
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Aarti
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:125) - Receptionist Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:38) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - In Tier 2 Analyst Work Area ! UserName : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:242) - Doctor is viewing his Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Varsha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Deepti
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:293) - New Patient Created ! UserName : Ruchira
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:383) - Employee Created ! First Name : Sangeeta Last Name : Agrawal in Doctor Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:383) - Employee Created ! First Name : Balasaheb Last Name : Chavan in Doctor Organization
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Naga Last Name : Neel in Organization : Reception Organization
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Doctor Created with UserName : sangeeta and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:292) - Doctor Created with UserName : balasaheb and Role : Doctor
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:305) - Employee Created with UserName : naga and Role : Reception
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:38) - Patient Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:39) - In Patient Work Area ! UserName : Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : a
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:38) - Patient Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:39) - In Patient Work Area ! UserName : a
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Nikita
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Priyanka
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Mugdha
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Indrajeet
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Jay
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Chinmay
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Neha
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Radhika
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Aarti
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Varsha
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Deepti
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : Ruchira
+2016-04-22  INFO [AWT-EventQueue-0] (DeleteUserJPanel.java:167) - Deleted User Account having User Name : a
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Nikita
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Priyanka
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Sayali
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Jay
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Chinmay
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Mugdha
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Radhika
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : Aarti
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:38) - Patient Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:39) - In Patient Work Area ! UserName : Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (PatientWorkAreaJPanel.java:161) - Bhavya Viewed Vital Sign
+2016-04-22  INFO [AWT-EventQueue-0] (RequestDoctorJPanel.java:140) - Bhavya Requested for Doctor for reason : Skin disorders
+2016-04-22  INFO [AWT-EventQueue-0] (RequestDoctorJPanel.java:140) - Bhavya Requested for Doctor for reason : Osteoarthritis and joint disorders
+2016-04-22  INFO [AWT-EventQueue-0] (RequestDoctorJPanel.java:140) - Bhavya Requested for Doctor for reason : Back problems
+2016-04-22  INFO [AWT-EventQueue-0] (RequestDoctorJPanel.java:140) - Bhavya Requested for Doctor for reason : Cholesterol problems
+2016-04-22  INFO [AWT-EventQueue-0] (PatientWorkAreaJPanel.java:170) - Bhavya Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (PatientWorkAreaJPanel.java:170) - Bhavya Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:125) - Receptionist Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:228) - barkha Assigned Request for Patient UserName :Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (DiagnosePatientJPanel.java:211) - Doctor sent request to Lab
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:242) - Doctor is viewing his Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:38) - Lab Employee Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:39) - In Lab Work Area ! UserName : akash
+2016-04-22  INFO [AWT-EventQueue-0] (LabWorkAreaJPanel.java:157) - Request Assigned to :akash
+2016-04-22  INFO [AWT-EventQueue-0] (ConductTestJPanel.java:249) - Test Completed by akash and Sent to Doctor 
+2016-04-22  INFO [AWT-EventQueue-0] (LabWorkAreaJPanel.java:202) - akash Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:228) - barkha Assigned Request for Patient UserName :Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:228) - barkha Assigned Request for Patient UserName :Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorWorkAreaJPanel.java:228) - barkha Assigned Request for Patient UserName :Bhavya
+2016-04-22  INFO [AWT-EventQueue-0] (DiagnosePatientJPanel.java:211) - Doctor sent request to Lab
+2016-04-22  INFO [AWT-EventQueue-0] (DiagnosePatientJPanel.java:211) - Doctor sent request to Lab
+2016-04-22  INFO [AWT-EventQueue-0] (DiagnosePatientJPanel.java:211) - Doctor sent request to Lab
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:38) - Lab Employee Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:39) - In Lab Work Area ! UserName : akash
+2016-04-22  INFO [AWT-EventQueue-0] (LabWorkAreaJPanel.java:157) - Request Assigned to :akash
+2016-04-22  INFO [AWT-EventQueue-0] (ConductTestJPanel.java:249) - Test Completed by akash and Sent to Doctor 
+2016-04-22  INFO [AWT-EventQueue-0] (LabWorkAreaJPanel.java:157) - Request Assigned to :akash
+2016-04-22  INFO [AWT-EventQueue-0] (ConductTestJPanel.java:249) - Test Completed by akash and Sent to Doctor 
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageEmployeeJPanel.java:396) - Employee Created ! First Name : Vaibhav Last Name : Vora in Organization : LabOrganization
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (ManageUserAccountJPanel.java:306) - Employee Created with UserName : vaibhav and Role : Lab
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:38) - Lab Employee Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (LabRole.java:39) - In Lab Work Area ! UserName : vaibhav
+2016-04-22  INFO [AWT-EventQueue-0] (LabWorkAreaJPanel.java:157) - Request Assigned to :vaibhav
+2016-04-22  INFO [AWT-EventQueue-0] (ConductTestJPanel.java:249) - Test Completed by vaibhav and Sent to Doctor 
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionistWorkAreaJPanel.java:116) - Receptionist Viewed Patients
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:38) - Receptionist Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (ReceptionRole.java:39) - In Reception Work Area ! UserName : suman
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : xu
+2016-04-22  INFO [AWT-EventQueue-0] (AddPatientJPanel.java:304) - New Patient Created ! UserName : yang
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:38) - Admin Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (AdminRole.java:39) - In Admin Work Area ! UserName : rohan
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:38) - Patient Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (PatientRole.java:39) - In Patient Work Area ! UserName : xu
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:38) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - In Tier 2 Analyst Work Area ! UserName : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:38) - SOS Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:39) - In SOC Analysis Work Area ! UserName : pari
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:38) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - In Tier 2 Analyst Work Area ! UserName : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:40) - In Tier 2 Analyst Work Area ! UserName : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2WorkAreaJPanel.java:110) - gurmeet Viewed Profile
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:38) - SOS Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:39) - In SOC Analysis Work Area ! UserName : pari
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:38) - SOS Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:39) - In SOC Analysis Work Area ! UserName : pari
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:40) - In Tier 2 Analyst Work Area ! UserName : gurmeet
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:38) - Tier 1 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier1AnalystRole.java:39) - In Tier 1 Analyst Work Area ! UserName : anmol
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:38) - Doctor Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (DoctorRole.java:39) - In Doctor Work Area ! UserName : barkha
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:38) - SOS Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (SOCAnalysisTeamRole.java:39) - In SOC Analysis Work Area ! UserName : pari
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:282) - Logged Out !!!
+2016-04-22  INFO [AWT-EventQueue-0] (MainJFrame.java:283) - 
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:39) - Tier 2 Analyst Logged In !!
+2016-04-22  INFO [AWT-EventQueue-0] (Tier2AnalystRole.java:40) - In Tier 2 Analyst Work Area ! UserName : gurmeet
